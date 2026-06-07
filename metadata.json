@@ -1,0 +1,6 @@
+{
+  "name": "Factive Plan Generator",
+  "description": "A simple client plan editor and HTML generator for Factive clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
